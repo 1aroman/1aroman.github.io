@@ -1,0 +1,109 @@
+body{
+    background-image: url(media/cloud.jpg);
+    background-size: contain;
+    font-family: "Quicksand", serif;
+    font-optical-sizing: auto;
+}
+h1{
+    font-size: 60px;
+    padding: 15x;
+    text-align: center;
+}
+h2{
+    font-size: 40px;
+    padding: 10px;
+    text-align: center;
+}
+.row{
+    margin: 15px;
+}
+.col-md-12{
+    border: solid 5px rgb(138, 95, 74);
+    border-radius: 40px;
+    background-color: rgb(208, 171, 152);
+}
+.col-md-10{
+    border: solid 5px rgb(138, 95, 74);
+    border-radius: 40px;
+    padding:5px;
+    background-color: rgb(208, 171, 152);
+}
+.col-md-9{
+    border: solid 5px rgb(138, 95, 74);
+    border-radius: 40px;
+    padding:10px;
+    background-color: rgb(208, 171, 152);
+}
+.col-md-4{
+    border: solid 5px rgb(138, 95, 74);
+    border-radius: 40px;
+    padding:5px;
+    background-color: rgb(208, 171, 152);
+}
+.col-md-3{
+    border: solid 5px rgb(138, 95, 74);
+    border-radius: 40px;
+    padding:10px;
+    background-color: rgb(208, 171, 152);
+}
+.col-md-2{
+    border: solid 5px rgb(138, 95, 74);
+    border-radius: 40px;
+    padding:5px;
+    background-color: rgb(208, 171, 152);
+}
+video{
+    object-fit: cover;
+    border-radius: 40px;
+    width: 405px;
+    height: 690px;
+    padding: 5px;
+    position: relative;
+    top: 5px;
+}
+img{
+    border-radius: 40px;
+    height: 300px;
+    width: 290px;
+}
+.cake2{
+    border-radius: 40px;
+    position: relative; 
+    left: 60px;
+}
+.links{
+    height: 50px;
+}
+a{
+    position: relative;
+    left: 340px;
+    display:inline-block;
+    margin:25px;
+    bottom: 20px;
+}
+.cake77{
+    position: relative;
+    left: -13px;
+}
+.navbar{
+    color: gray;
+}
+nav{
+    background-color: black;
+    height: 100px;
+    color: azure;
+    }
+    .text-danger{
+        left: -20px;
+    }
+.collapse{
+    margin: 420px;
+}
+.dropdown-item{
+    margin-left: -320px;
+}
+.waffle{
+    position: absolute;
+    top: 70px;
+    left: 320px;
+}

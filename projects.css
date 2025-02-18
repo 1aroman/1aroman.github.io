@@ -1,0 +1,67 @@
+.jumbotron{
+    background-color: #0E1013;
+}
+nav{
+    background-color: black;
+    height: 80px;
+}
+body{
+    background-color: #202124;
+}
+.l9er{
+    background-color: #0E1013;
+    font-size: 75px;
+    font-weight: bold;
+    width: 1517px;
+}
+p{
+    color: azure;
+}
+.fteer{
+    position: relative;
+    left: -90px;
+    bottom: -40px;
+    width:fit-content;
+    background-color: #0E1013;
+}
+.ftfix{
+    margin-top: 75px;
+}
+.gmail{
+    left: 1200px;
+    bottom: -900px;
+    margin-left: 225px;
+    width: 1264px;
+}
+.YT{
+    left: 1400px;
+    bottom: -900px;
+    margin-left: 225px;
+}
+.INSTA{
+    left: 1600px;
+    bottom: -900px;
+    margin-left: 225px;
+}
+.ltxt{
+    font-size: 20px;
+}
+.btn{
+    width: 360px;
+}
+img{
+    border: 5px black solid;
+}
+.card{
+    background-color: #0E1013;
+}
+.pio{
+    width: 1310px; 
+}
+.pio2{
+    margin-top: 20px;
+    padding-bottom: 40px;
+}
+.changecard{
+    margin-left: -100px;
+}
